@@ -1,0 +1,500 @@
+{
+    "name": "Tyrone G. Wilson",
+    "address": "Mooikloof Ridge, Pretoria, South Africa",
+    "role": "Software Developer",
+    "mobile": "+27 61 828 6583",
+    "email": "tgwilson35@gmail.com",
+    "github": {
+        "url": "https://github.com/tywil7",
+        "alt": "tywil7"
+    },
+    "profilePic": {
+        "url": "/assets/me.jpg",
+        "alt": "tywil7"
+    },
+    "about": "I enjoy developing applications and working with new technology and the way it helps businesses or individuals improve their daily tasks, and the challenges it comes with.\r\n\r\nI prefer working remote, as I have done so for 4 years. I am open to working in an office, being close by to help out the team.\r\n\r\nThe industries that I follow are new development tools, development in programming languages and the gaming industry.\r\n\r\nNew development tools are always great, plug-ins for VS code, tools to improve workflow and automation.\r\n\r\nDevelopment in programming languages, I like the idea of learning different languages. It challenges you in applying your knowledge. Being able to see what strengths or weaknesses a language may have, sometimes you might even get ideas on improving your own code.\r\n\r\nGaming Industry. Since a young age, I have had access to a computer. trying out everything it had to offer. Gaming was my favorite. The competitive nature of it all. All the new technologies that emerge from it.\r\n\r\nIn closing, I like challenges. Always ready to help the team. I enjoy having a good laugh. Integrity and patience. \r\n",
+    "skills": [
+        {
+            "name": "Frontend Development",
+            "rated": 5
+        },
+        {
+            "name": "Integration",
+            "rated": 4
+        },
+        {
+            "name": "Backend Development",
+            "rated": 4
+        },
+        {
+            "name": "Ticket Master",
+            "rated": 4
+        },
+        {
+            "name": "DevOps",
+            "rated": 3
+        },
+        {
+            "name": "DBA",
+            "rated": 3
+        },
+        {
+            "name": "System Ops",
+            "rated": 2
+        }
+    ],
+    "softwares": [
+        {
+            "name": "Visual Studio Code",
+            "rated": 5
+        },
+        {
+            "name": "MSSQL",
+            "rated": 3
+        },
+        {
+            "name": "MySQL",
+            "rated": 4
+        },
+        {
+            "name": "NodeJS",
+            "rated": 4
+        },
+        {
+            "name": "NPM",
+            "rated": 4
+        },
+        {
+            "name": "Vue",
+            "rated": 5
+        },
+        {
+            "name": "Angular",
+            "rated": 4
+        },
+        {
+            "name": "Dotnet",
+            "rated": 3
+        },
+        {
+            "name": "Azure",
+            "rated": 2
+        },
+        {
+            "name": "AWS",
+            "rated": 3
+        },
+        {
+            "name": "Firebase",
+            "rated": 3
+        },
+        {
+            "name": "Git",
+            "rated": 4
+        },
+        {
+            "name": "Github",
+            "rated": 4
+        },
+        {
+            "name": "Atlassian Suite",
+            "rated": 3
+        },
+        {
+            "name": "Trello",
+            "rated": 3
+        },
+        {
+            "name": "Clickup",
+            "rated": 3
+        },
+        {
+            "name": "Postgres",
+            "rated": 4
+        },
+        {
+            "name": "Docker",
+            "rated": 3
+        },
+        {
+            "name": "NGINX",
+            "rated": 3
+        },
+        {
+            "name": "terminal",
+            "rated": 4
+        }
+    ],
+    "languages": [
+        {
+            "name": "Typescript",
+            "rated": 5
+        },
+        {
+            "name": "Javascript",
+            "rated": 5
+        },
+        {
+            "name": "Java",
+            "rated": 4
+        },
+        {
+            "name": "C#",
+            "rated": 4
+        },
+        {
+            "name": "Go Lang",
+            "rated": 3
+        },
+        {
+            "name": "C++",
+            "rated": 2
+        },
+        {
+            "name": "Rust C",
+            "rated": 2
+        },
+        {
+            "name": "CSS",
+            "rated": 4
+        },
+        {
+            "name": "HTML",
+            "rated": 4
+        },
+        {
+            "name": "SQL",
+            "rated": 3
+        },
+        {
+            "name": "NoSQL",
+            "rated": 3
+        },
+        {
+            "name": "PHP",
+            "rated": 4
+        }
+    ],
+    "education": [
+        {
+            "name": "BSc Comp Sci 22 of 31 Completed thru UNISA",
+            "from": "January 2011",
+            "to": "October 2013",
+            "modules": [
+                "COS1521 - Comp Syst: Fundamental Concepts",
+                "COS3712 - Computer Graphics",
+                "COS2626 - Computer Networks I",
+                "COS2621 - Computer Organisation",
+                "INF3707 - Database Design and Implementation",
+                "INF2603 - Databases I",
+                "INF3703 - Databases II",
+                "COS2661 - Formal Logic II",
+                "INF1520 - Human-Computer Interaction I",
+                "INF3720 - Human-Computer Interaction II",
+                "INF1505 - Intro to Bus Inform Systems",
+                "COS1512 - Introduc to Programming II",
+                "INF1511 - Introduction to Programming I",
+                "STA1610 - Introduction to Statistics",
+                "MAT1503 - Linear Algebra I",
+                "COS2614 - Programming: Contemporary Concepts",
+                "COS2611 - Programming: Data Structures",
+                "ICT2621 - Structured Systems Analysis",
+                "COS1501 - Theoretic Computer Science I",
+                "COS2601 - Theoretic Computer Science II",
+                "COS1511 - Visual Programming I",
+                "INF2611 - Visual Programming II"
+            ]
+        },
+        {
+            "name": "National Senior Certificate",
+            "from": "2010",
+            "to": "",
+            "modules": [
+                "IT",
+                "Maths",
+                "Science",
+                "Geography",
+                "English",
+                "Afrikaans",
+                "Life Orientation"
+            ]
+        }
+    ],
+    "workExperiences": [
+        {
+            "name": "EZ Cash",
+            "from": "November 2022",
+            "to": "Present",
+            "role": "Full Stack",
+            "tech": [
+                "Firebase",
+                "Vue",
+                "Ionic",
+                "CapacitorJS",
+                "Crypto Currency",
+                "Block Chain"
+            ],
+            "achievments": [
+                "Firebase Development",
+                "Integrated with Stripe",
+                "Integrated with Spotify",
+                "Block chain and crypto currency integration",
+                "migrate and onboard 3 million user base"
+            ],
+            "experience": "EZ Cash is Rewards for surveys. Either you are asked to listen to songs through spotify, leave a review and like the song on Spotify.\r\n\r\nThe project was developed on hybrid framework, Ionic.\r\nMigration of 3 millions active users around the world.\r\nInteractive with block chains and crypto wallets.\r\n\r\nMy part started as mobile developer, then evolved into API functions and integrations.\r\nThis was my first time using Firebase and got to work with seasoned developers.\r\n\r\nI enjoy working with the team and the challenges that come along in the project."
+        },
+        {
+            "name": "Creative Contracts",
+            "from": "July 2022",
+            "to": "Present",
+            "role": "Full Stack",
+            "tech": [
+                "Java",
+                "Vue",
+                "AWS",
+                "SMS API"
+            ],
+            "achievments": [
+                "Maintain and Build new Java features",
+                "Integrated with multiple SMS APIs",
+                "DevOps for AWS",
+                "Built a comic book reader with audio playback"
+            ],
+            "experience": "Creative Contracts, is a system designed to create comic contracts with audio playback. As the audio plays, we navigate and zoom around the comic. This helps better explain the benefits and requirements to future employees.\r\n\r\nThe project was taken over by us in July 2022. We Inhertied a imcomplete system that was out of date, slow and didn't work as expected.\r\n\r\nThe challenge was having to deal with a Java API, AWS, upgrading the frontend application and finishing the MVP for November 2022. \r\n\r\nAfter completing the MVP, a demo in Finland was presented. A University in Finland is currently using the system for case studies in using comics as contracts. \r\n\r\nI enjoyed the challenge of getting the audio to trigger animation to move across a canvas and the complex comic builder tool I made from Scratch. What was not a joy was the Java API we inherted. It was badly designed and had the word \"blah\" as function names and services names. It was a nightmare to get it to run locally and deploy without any documentation."
+        },
+        {
+            "name": "BSafe",
+            "from": "July 2021",
+            "to": "March 2022",
+            "role": "Full Stack",
+            "tech": [
+                "C#",
+                "Vue",
+                "Ionic / CapacitorJs",
+                "Postgres",
+                "Android",
+                "iOS"
+            ],
+            "achievments": [
+                "Google Maps Integration",
+                "Open Maps Integration",
+                "Learnt C# and dotnet",
+                "Ionic / CapacitorJs mobile applications",
+                "Using Map for navigation"
+            ],
+            "experience": "BSafe is an app that allows users to search for security companies on a map and request call outs, at a fee.\r\nThe app was built for the American market, and was trying to get into the SA market.\r\n\r\nThe challenge here was the maps to display the information and then interacting with the map to view or request security personal. Once a call out was accepted it had to switch to a navigation mode to show how far the security personal is and where the user requested assistance from.\r\n\r\nThere was payment integration, Geolocation searching and 2 Map integration we had to build. We used Open maps at first but it proved to be  slow unless we paid. Which at that point we went with google maps as we had an account with them already.\r\n\r\nI enjoyed working on this project and working with the clients, but sadly the client stopped funding the project."
+        },
+        {
+            "name": "Sircula",
+            "from": "June 2021",
+            "to": "Present",
+            "role": "Full Stack",
+            "tech": [
+                "C#",
+                "Angular",
+                "PWA",
+                "MSSQL"
+            ],
+            "achievments": [
+                "SLA for our company",
+                "Learnt C# and dotnet",
+                "PWA that has offline capture ability"
+            ],
+            "experience": "Sircula is a Business Management System that helped clients track and monitor duties, corrective actions and performance of employees.\r\n\r\nThe system was inherited from a previous developer house. The Angular code was messy and was difficult to fix or make changes as the code was copy pasted rather than imported and there was no clear structure to the project.\r\n\r\nI was tasked to maintain and build new features for the client.\r\n\r\nThe system is a PWA and can work offline, as most of the work gets captured out in the field without internet access.\r\n\r\nThe challenge on this system was refactoring the code and improving as we went along to create a more stable code base to work from. We introduced github actions and upgraded the system architecture to the latest dotnet, at the time it was dotnet5.\r\n\r\nI enjoy working on the project and the client is a pleasure to work with."
+        },
+        {
+            "name": "WeBelieveIT",
+            "from": "June 2021",
+            "to": "Present",
+            "role": "Full Stack",
+            "tech": [
+                "C#",
+                "Typescript",
+                "Javascript",
+                "Java",
+                "Azure",
+                "AWS",
+                "Vue",
+                "Angular"
+            ],
+            "achievments": [
+                "Learnt C# and dotnet",
+                "Clients enjoy working with me and my results",
+                "New friends"
+            ],
+            "experience": "WeBelieveIt initially hired me as a intermediate frontend developer. After a month the realised I can actually code in multiple languages and have a strong skill set for integration work and moved me on to multiple projects.\r\n\r\nGradually I gained their trust and they gave me more privileges , like committing straight to master\/dev branch without PRs.\r\nTo this day I handle 3 accounts, playing different roles on each project. \r\n\r\nIt has been challenging work, but a fun experience with all the different types of apps we make."
+        },
+        {
+            "name": "FuelTracker",
+            "from": "May 2020",
+            "to": "March 2021",
+            "role": "Frontend Mobile",
+            "tech": [
+                "Ionic / CapacitorJs",
+                "Typescript",
+                "Angular"
+            ],
+            "achievments": [
+                "Built app",
+                "Trained team to make hybrid apps"
+            ],
+            "experience": "FuelTracker was an app that assigned drivers to a vehicle that was tracked from a IoT device modification to the car.\r\nThe app would scan a QR code and link the Android device ID to a vehicle and employee.\r\n\r\nI was in charge of the Frontend Mobile app.\r\n\r\nThe challenge here was a bug that caused inaccurate reports on costing. This bug had been floating around before I joined the team. After months of trying to locate the problem, I asked if I could help. \r\nWith help from the team, we managed to find that the car would drop its speed to 0 even though you could see the GPS was moving. In the end we couldn't resolve the issue as it was a faulty ECU in the car feeding bad data out.\r\n\r\nThis was a small and simple project, it was fun tracking down the bug and building the app."
+        },
+        {
+            "name": "GovERP",
+            "from": "May 2020",
+            "to": "March 2021",
+            "role": "Frontend Developer",
+            "tech": [
+                "PHP",
+                "Vue",
+                "Laravel"
+            ],
+            "achievments": [
+                "Learnt PHP and Laravel"
+            ],
+            "experience": "GovERP is a business management system built for South African Education Department. Constant change request and short deadline. \r\n\r\nI was tasked to build out new features and maintain current ones. This was my first time using PHP and Laravel.\r\n\r\nI enjoyed learning PHP,  I see now why its popular."
+        },
+        {
+            "name": "ZGP / HSH Group",
+            "from": "May 2020",
+            "to": "March 2021",
+            "role": "Full Stack",
+            "tech": [
+                "Go",
+                "Typescript",
+                "Angular",
+                "Postgres"
+            ],
+            "achievments": [
+                "Built Multi lang service",
+                "Created DevOp scripts for deployments",
+                "Integrated with a Germany company compliance API"
+            ],
+            "experience": "ZGP is a company compliance app for companies in Germany to use through out the year.\r\nCompanies would fill out questionnaires that get generated on the system from some government department.\r\n\r\nI was tasked to integrate with APIs, make the app multi-language and make the entire system data driven.\r\nSection where created and questionnaires were created under each section. Version control was required and the ability to disable questionnaires. \r\n\r\nThere was a few challenges to this project. \r\n\r\nAPIs were SOAP and responded in German ( I do not read or write German ).\r\nThe system was completely data driven, which meant generic forms and components to generate and well thought of data structure. \r\n\r\nI enjoyed this project mostly because I got to use Go in a live project. "
+        },
+        {
+            "name": "Hasdata",
+            "from": "May 2020",
+            "to": "March 2021",
+            "role": "Full Stack",
+            "tech": [
+                "Go",
+                "Typescript",
+                "Angular",
+                "Ionic / CapacitorJs",
+                "Postgres",
+                "PHP",
+                "Vue",
+                "Laravel"
+            ],
+            "achievments": [
+                "Learnt PHP and Laravel",
+                "Got to use Go for an API"
+            ],
+            "experience": "I was hired at Hashdata to help out with hybrid mobile apps using Ionic framework.\r\n\r\nThe CEO\/CTO was happy with my work and asked if I wanted to learn PHP and help out at his company. I agreed.\r\n\r\nIt was quite easy learning PHP and Laravel as it had loads of resources and is an easy to use language. I understood now why so many developers used PHP.\r\n\r\nI enjoyed working with the team and seeing how it is to work with governments. "
+        },
+        {
+            "name": "Insure The Box",
+            "from": "Novemeber 2018",
+            "to": "December 2019",
+            "role": "Integration Developer",
+            "tech": [
+                "Java",
+                "GOSU"
+            ],
+            "achievments": [
+                "Build Apps with Guidewire suit",
+                "Integrated with Sage",
+                "Integrated with 3rd party Affliate sites to sell insurance",
+                "Generate invoice for Frontend apps in under 7 seconds",
+                "Went overseas"
+            ],
+            "experience": "Insure The Box is an insurance company that wanted to re-write their internal systems and external systems. We were to build it with an insurance suite, known as Guidewire.\r\n\r\nMy first time using Guidewire and GOSU. There was training for 3 weeks and after that we had to deal with tight deadlines and large development teams across the globe. This was challenging as there was 50 developers which we had to communicate with. \r\nI was part of the integration team, which meant I had to work on Claims, Policies and Billing sections.\r\n\r\nWe had to integrate with 3rd party affiliate sites, managing soap and restful services.\r\nWe had to integrate with other data warehouses and migrate legacy data.\r\n\r\nThe challenge to this project was the short deadlines with a large team. Reviews and conflicts became a Friday activity, most developers had no clue how to use Git. \r\n\r\nI got to travel overseas for my first time which was exciting.\r\n\r\nI enjoyed working with the team and learning about the insurance world and how its run, from a developer point of view."
+        },
+        {
+            "name": "RXLive",
+            "from": "March 2018",
+            "to": "Novemeber 2019",
+            "role": "Full Stack",
+            "tech": [
+                "Java",
+                "JSP",
+                "MySQL",
+                "AWS"
+            ],
+            "achievments": [
+                "Integrate with NIH UK",
+                "Integrated with Stripe",
+                "Integrated with Braintree"
+            ],
+            "experience": "RXLive is an online pharmacy, getting prescriptions to customers without leaving your house.\r\nPrescriptions were placed on the system, customers' GPs were already linked to their NIH number and from there the pharmacy would contact the GP and complete the scripts.\r\n\r\nI was the Full Stack Developer on this. I had to make a mobile app for iOS and Android. Admin portal and Client Portal. Doctor and Pharmacy Portal.\r\n\r\nThere was a lot put into this system and many rewrites because of design changes. \r\nI enjoyed working with the client on this project and seeing people use the app."
+        },
+        {
+            "name": "Cancer Central",
+            "from": "June 2019",
+            "to": "Novemeber 2019",
+            "role": "Full Stack",
+            "tech": [
+                "Java",
+                "JSP",
+                "MySQL",
+                "AWS"
+            ],
+            "achievments": [
+                "Helped run a code competition"
+            ],
+            "experience": "Cancer Central was a donations and knowledge center for cancer patients.\r\n\r\nI was Lead developer and helped run a code competition, where we chose whose app looked the best and migrated it to JSF.\r\n\r\nIt was fun doing the code competition and meeting all the people involved."
+        },
+        {
+            "name": "Tideways",
+            "from": "Novemeber 2018",
+            "to": "June 2019",
+            "role": "Full Stack",
+            "tech": [
+                "Java",
+                "JSP",
+                "MySQL",
+                "AWS"
+            ],
+            "achievments": [
+                "Build MVP in 1 month",
+                "First release in 3 months"
+            ],
+            "experience": "Tideways was my first web project. The project was a Purchase Requisition System that construction workers could order supplies through different suppliers. Managers could edit, approve or reject PRs. There were several report generators we had to create based off the data.\r\n\r\nThe challenges on this system was ingesting an excel matrix with pivot data into the system, learning Java with JSF and using AWS for the first time.\r\n\r\nOnce the system went live there were some bugs and tweaks to DB queries required afterwards, but overall the project went smoothly and my company was impressed with my delivery time. Leading to a promotion."
+        },
+        {
+            "name": "Techfinium",
+            "from": "Novemeber 2018",
+            "to": "December 2019",
+            "role": "Full Stack",
+            "tech": [
+                "Java",
+                "JSP",
+                "MySQL",
+                "AWS"
+            ],
+            "achievments": [
+                "First time web developing",
+                "Learned Java and JSF",
+                "Learned about AWS and how to use",
+                "Got 2 promotions in 1 year"
+            ],
+            "experience": "TechFinium was my first developer job. The CTO didn't have space to hire, but after a chat he decide to give me a chance.\r\n\r\nAfter one month I had already finished a MVP. I was promoted from trainee to junior developer. Then I finished a final release 2 months later. The company was impressed, despite the occasional bug.\r\n\r\nThere was 4 main projects I worked on as Full Stack developer. RXLive, Cancer Central, Insure The Box and Tideways.\r\nAll were built in Java with JSF and a custom frame work the company used for all projects. All the DBs were MySQL and all our services where from AWS.\r\n\r\nI had a great time working at TechFinium and learnt a lot about how the world of IT business works. I was fortunate enough to build my career at TechFinium to Senior Developer. \r\n\r\nBuilt great friendships with clients and colleagues. Got to travel overseas and experience a taste of what my developer career had ahead for me."
+        }
+    ],
+    "interest": [
+        {
+            "name": "Programming",
+            "description": "From a young age I have always worked with computers, whether Graphics design or attempting to code a game.\r\nNowadays I code new apps to test out new technologies and to help improve my work flow and knowledge for work.\r\n\r\nI love automating processes and helping out people realize and take advantage of technology to improve their lifes."
+        },
+        {
+            "name": "Music and Instruments",
+            "description": "I have zero musical talent, but I do love music and instruments. \r\n\r\nMusic has always been in my life and I have been a collector of musical instruments throughout my life.\r\nOne day I wish to have a music room with every kind of instrument out there."
+        },
+        {
+            "name": "Gardening, mycelium and SCOBY",
+            "description": "Over the last few years I have been teaching myself how to cultivate and grow vegetables and various mycelium for eating.\r\nThrough this journey I found out about the dense and complex world of bacteria, now I grow SCOBY which produces vinegar and kombucha.\r\n\r\nIt takes a lot of patience and teaches one to not over think or over do. Commitment, Moderation and Patience is all it takes to grow."
+        }
+    ]
+}

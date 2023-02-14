@@ -1,0 +1,15 @@
+{
+  "projects": {
+    "default": "mytest-ed01a"
+  },
+  "targets": {
+    "mytest-ed01a": {
+      "hosting": {
+        "tyrone-g-wilson": [
+          "tyrone-g-wilson"
+        ]
+      }
+    }
+  },
+  "etags": {}
+}
