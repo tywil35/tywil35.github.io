@@ -1,0 +1,1 @@
+export type Rated = { name: string, rated: number };
