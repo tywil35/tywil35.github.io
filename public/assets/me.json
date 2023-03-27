@@ -5,12 +5,12 @@
     "mobile": "+27 61 828 6583",
     "email": "tgwilson35@gmail.com",
     "github": {
-        "url": "https://github.com/tywil7",
-        "alt": "tywil7"
+        "url": "https://github.com/tywil35",
+        "alt": "tywil35"
     },
     "profilePic": {
         "url": "/assets/me.jpg",
-        "alt": "tywil7"
+        "alt": "tywil35"
     },
     "about": "I enjoy developing applications and working with new technology and the way it helps businesses or individuals improve their daily tasks, and the challenges it comes with.\r\n\r\nI prefer working remote, as I have done so for 4 years. I am open to working in an office, being close by to help out the team.\r\n\r\nThe industries that I follow are new development tools, development in programming languages and the gaming industry.\r\n\r\nNew development tools are always great, plug-ins for VS code, tools to improve workflow and automation.\r\n\r\nDevelopment in programming languages, I like the idea of learning different languages. It challenges you in applying your knowledge. Being able to see what strengths or weaknesses a language may have, sometimes you might even get ideas on improving your own code.\r\n\r\nGaming Industry. Since a young age, I have had access to a computer. trying out everything it had to offer. Gaming was my favorite. The competitive nature of it all. All the new technologies that emerge from it.\r\n\r\nIn closing, I like challenges. Always ready to help the team. I enjoy having a good laugh. Integrity and patience. \r\n",
     "skills": [
@@ -448,7 +448,7 @@
         },
         {
             "name": "Tideways",
-            "from": "Novemeber 2018",
+            "from": "Novemeber 2017",
             "to": "June 2019",
             "role": "Full Stack",
             "tech": [
@@ -465,7 +465,7 @@
         },
         {
             "name": "Techfinium",
-            "from": "Novemeber 2018",
+            "from": "Novemeber 2017",
             "to": "December 2019",
             "role": "Full Stack",
             "tech": [
